@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerMultipleKinect", "MasterWPF\ServerMultipleKinect.csproj", "{F1C8543C-4125-420B-A5E6-72A8BC1E76F5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{C4E3EA93-F820-4086-A21E-C62E3A969033}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Users\User\Pictures\IMU.png = ..\..\..\Users\User\Pictures\IMU.png
+		..\..\..\Users\User\Pictures\Kinect1.png = ..\..\..\Users\User\Pictures\Kinect1.png
+		..\..\..\Users\User\Pictures\Kinect2.png = ..\..\..\Users\User\Pictures\Kinect2.png
+		..\..\..\Users\User\Pictures\plug.png = ..\..\..\Users\User\Pictures\plug.png
+		..\..\..\Users\User\Pictures\Qualisys.jpg = ..\..\..\Users\User\Pictures\Qualisys.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1C8543C-4125-420B-A5E6-72A8BC1E76F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1C8543C-4125-420B-A5E6-72A8BC1E76F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1C8543C-4125-420B-A5E6-72A8BC1E76F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1C8543C-4125-420B-A5E6-72A8BC1E76F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DC3FE0E-BD45-496D-89A2-36BF514A85F5}
+	EndGlobalSection
+EndGlobal
