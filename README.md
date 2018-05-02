@@ -4,5 +4,7 @@ This application package enables you to capture and store Microsoft Kinect v1 (K
 
 Please read ReadMe.pdf file.
 
+https://github.com/rezaneam/MultiKinect-Skeleton/blob/master/ReadMe.pdf
+
 Please don't hesistate to contact me if you would like to have further details
 mr.naeemabadi@gmail.com
